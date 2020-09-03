@@ -1,0 +1,8 @@
+[package]
+name = "texturesynth"
+version = "0.1.0"
+authors = ["Dmitry Shintyakov <shintyakov@gmail.com>"]
+
+[dependencies]
+image = "^0.22"
+rand = "^0.7"
